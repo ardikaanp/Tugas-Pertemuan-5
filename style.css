@@ -1,0 +1,87 @@
+<style>
+
+body {
+    background-color: darkgray;
+}
+
+.nama{
+    font-size: 15px;
+    
+}
+
+.atas{
+    margin: auto;
+    width: 1100px;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.tengah {
+	margin : auto;
+	width : 1100px;
+	height : 750px;
+	margin-bottom : 40px;
+	
+}
+
+.tengah_kiri {
+	width : 850px;
+	height : 750px;
+	float:left;
+    margin-top: 30px;
+	}
+	
+	.satu {
+	width : 850px;
+	height : 240px;
+	float:left;
+	border : 1px solid black;
+    margin-top: 10px;
+	}
+	
+	.dua {
+	width : 850px;
+	height : 240px;
+	float:left;
+	border : 1px solid black;
+    margin-top: 10px;
+	}
+	
+	.tiga
+	{
+	width : 850px;
+	height : 240px;
+	float:left;
+	border : 1px solid black;
+    margin-top: 10px;
+	}
+	
+.tengah_kanan {
+	width : 200px;
+	height : 750px;
+	float:right;
+    margin-top: 40px;	
+	}
+
+    .kanan1, .kanan2, .kanan3, .kanan4{
+        width: 200px;
+        height: 177.5px;
+        margin-bottom: 10px;
+        border: 1px solid black;
+        float: right;
+    }
+
+.bawah {
+	margin : auto;
+	width : 1100px;
+	height : 300px;
+    display: flex;
+    justify-content: space-between;
+    }
+
+    .bawah1, .bawah2, .bawah3, .bawah4{
+        width: 250px;
+        height: 300px;
+        margin-top: 40px;
+        border: 1px solid black;
+    }
